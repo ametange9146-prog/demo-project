@@ -1,2 +1,2 @@
-# demo-project activity 6666
+# demo-project activity 6
 
